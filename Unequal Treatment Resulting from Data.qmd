@@ -1,6 +1,6 @@
 ---
 title: "Unequal Treatment Resulting from Data:"
-format: html
+format: pdf
 editor: Lin Dai
 ---
 
